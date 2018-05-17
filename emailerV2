@@ -27,7 +27,7 @@
 # The directory in which your application is installed
 APPLICATION_DIR="/root/emailer"
 # The fat jar containing your application
-APPLICATION_JAR="workspace-1.0-fat.jar"
+APPLICATION_JAR="app.jar"
 # The application argument such as -cluster -cluster-host ...
 APPLICATION_ARGS="-conf /root/emailer/conf.json"
 # vert.x options and system properties (-Dfoo=bar). 
